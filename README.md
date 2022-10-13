@@ -3,6 +3,9 @@ AWS Certified Developer Associate exam questions 2022 + questions for DVA-C02
 
 Finding and adding here questions that being used in [quizz app](https://github.com/romankurnovskii/cloud-exam-prepare)
 
+**Resources:**
+-  https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions_C02.pdf
+
 **A company is migrating a legacy application to Amazon EC2 instances. The application uses a user name and password that are stored in the source code to connect to a MySQL database. The company will migrate the database to an Amazon RDS for MySQL DB instance. As part of the migration, the company needs to implement a secure way to store and automatically rotate the database credentials.**
 
 **Which solution will meet these requirements?**
@@ -24,7 +27,7 @@ AWS Secrets Manager helps protect the credentials that are needed to access data
 </details>
 
 
-TODO: **add to quizz:**
+TODO: **add next questions to quizz app:**
 
 **A developer is creating a web application that must give users the ability to post comments and receive feedback in near real time.
 Which solutions will meet these requirements? (Select TWO.)**
