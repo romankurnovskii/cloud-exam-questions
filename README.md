@@ -1,5 +1,4 @@
-# cloud-exam-questions
-AWS Certified Developer Associate exam questions 2022 + questions for DVA-C02
+# AWS Certified Developer Associate exam questions 2022 + questions for DVA-C02
 
 Finding and adding here questions that being used in [quizz app](https://github.com/romankurnovskii/cloud-exam-prepare)
 
