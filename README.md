@@ -29,7 +29,11 @@ AWS Secrets Manager helps protect the credentials that are needed to access data
 </details>
 
 
+-------------
+
 TODO: **add next questions to quizz app:**
+
+-------------
 
 **A developer is creating a web application that must give users the ability to post comments and receive feedback in near real time.
 Which solutions will meet these requirements? (Select TWO.)**
