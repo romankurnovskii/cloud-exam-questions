@@ -12,10 +12,10 @@ Finding and adding here questions that being used in [quizz app](https://github.
 
 **Which solution will meet these requirements?**
 
-A) Store the database credentials in environment variables in an Amazon Machine Image (AMI). Rotate the credentials by replacing the AMI.
-B) Store the database credentials in AWS Systems Manager Parameter Store. Configure Parameter Store to automatically rotate the credentials.
-C) Store the database credentials in environment variables on the EC2 instances. Rotate the credentials by relaunching the EC2 instances.
-D) Store the database credentials in AWS Secrets Manager. Configure Secrets Manager to automatically rotate the credentials.
+1. Store the database credentials in environment variables in an Amazon Machine Image (AMI). Rotate the credentials by replacing the AMI.
+1. Store the database credentials in AWS Systems Manager Parameter Store. Configure Parameter Store to automatically rotate the credentials.
+1. Store the database credentials in environment variables on the EC2 instances. Rotate the credentials by relaunching the EC2 instances.
+1. Store the database credentials in AWS Secrets Manager. Configure Secrets Manager to automatically rotate the credentials.
 
 <details>
 <summary>Explanation</summary>
@@ -23,7 +23,7 @@ D) Store the database credentials in AWS Secrets Manager. Configure Secrets Mana
 
 AWS Secrets Manager helps protect the credentials that are needed to access databases, applications, services, and other IT resources. With Secrets Manager, you can rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle. Users and applications retrieve secrets by making a Secrets Manager API call, eliminating the need to hardcode sensitive information in plaintext. Secrets Manager offers [secret rotation](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotate-secrets_turn-on-for-db.html) with built-in integration for Amazon RDS, Amazon Redshift, and Amazon DocumentDB (with MongoDB compatibility).
 
-<mark>D</mark> 
+<mark>4</mark> 
 
 </div>
 </details>
@@ -34,11 +34,11 @@ TODO: **add next questions to quizz app:**
 **A developer is creating a web application that must give users the ability to post comments and receive feedback in near real time.
 Which solutions will meet these requirements? (Select TWO.)**
 
-A) Create an AWS AppSync schema and corresponding APIs. Use an Amazon DynamoDB table as the data store.
-B) Create a WebSocket API in Amazon API Gateway. Use an AWS Lambda function as the backend. Use an Amazon DynamoDB table as the data store.
-C) Create an AWS Elastic Beanstalk application that is backed by an Amazon RDS database. Configure the application to allow long-lived TCP/IP sockets.
-D) Create a GraphQL endpoint in Amazon API Gateway. Use an Amazon DynamoDB table as the data store.
-E) Establish WebSocket connections to Amazon CloudFront. Use an AWS Lambda function as the CloudFront distribution’s origin. Use an Amazon Aurora DB cluster as the data store.
+1. Create an AWS AppSync schema and corresponding APIs. Use an Amazon DynamoDB table as the data store.
+1. Create a WebSocket API in Amazon API Gateway. Use an AWS Lambda function as the backend. Use an Amazon DynamoDB table as the data store.
+1. Create an AWS Elastic Beanstalk application that is backed by an Amazon RDS database. Configure the application to allow long-lived TCP/IP sockets.
+1. Create a GraphQL endpoint in Amazon API Gateway. Use an Amazon DynamoDB table as the data store.
+1. Establish WebSocket connections to Amazon CloudFront. Use an AWS Lambda function as the CloudFront distribution’s origin. Use an Amazon Aurora DB cluster as the data store.
 
 <details>
 <summary>Explanation</summary>
@@ -46,7 +46,7 @@ E) Establish WebSocket connections to Amazon CloudFront. Use an AWS Lambda funct
 
 AWS AppSync simplifies application development by giving you the ability to create a flexible API to securely access, manipulate, and combine data from one or more data sources. AWS AppSync is a managed service that uses GraphQL to help applications get the exact data that they need. You can use AWS AppSync to build scalable applications that require real-time updates on a range of data sources, including Amazon DynamoDB.
 
-<mark>A, B</mark> 
+<mark>1, 2</mark> 
 
 </div>
 </details>
