@@ -3,6 +3,8 @@ AWS Certified Developer Associate exam questions 2022 + questions for DVA-C02
 
 Finding and adding here questions that being used in [quizz app](https://github.com/romankurnovskii/cloud-exam-prepare)
 
+- [Project status](https://github.com/users/romankurnovskii/projects/4/)
+
 **Resources:**
 -  https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions_C02.pdf
 -  https://explore.skillbuilder.aws/learn/course/external/view/elearning/13757/aws-certified-developer-associate-official-question-set-dva-c02-english
