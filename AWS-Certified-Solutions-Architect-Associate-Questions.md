@@ -18,7 +18,7 @@
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (D)
+#### Answer (D)
 
 Knowledge Area: Virtual Private Cloud (VPC)
 
@@ -38,7 +38,7 @@ Knowledge Area: Virtual Private Cloud (VPC)
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B,C)
+#### Answer (B,C)
 
 Knowledge Area: Monitoring Services
 
@@ -58,7 +58,7 @@ Knowledge Area: Monitoring Services
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (C)
+#### Answer (C)
 
 Knowledge Area: Storage Services
 
@@ -78,7 +78,7 @@ Knowledge Area: Storage Services
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (D)
+#### Answer (D)
 
 Knowledge Area: EC2 Compute
 
@@ -97,7 +97,7 @@ Knowledge Area: EC2 Compute
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B,C)
+#### Answer (B,C)
 
 Knowledge Area: Virtual Private Cloud (VPC)
 
@@ -117,7 +117,7 @@ Knowledge Area: Virtual Private Cloud (VPC)
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A,C)
+#### Answer (A,C)
 
 Knowledge Area: Virtual Private Cloud (VPC)
 
@@ -138,7 +138,7 @@ Knowledge Area: Virtual Private Cloud (VPC)
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B,C)
+#### Answer (B,C)
 
 Knowledge Area: Fault Tolerant Systems
 
@@ -158,7 +158,7 @@ Knowledge Area: Fault Tolerant Systems
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B,D)
+#### Answer (B,D)
 
 Knowledge Area: Storage Services
 
@@ -178,7 +178,7 @@ Knowledge Area: Storage Services
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B,D)
+#### Answer (B,D)
 
 Knowledge Area: Deployment
 
@@ -197,7 +197,7 @@ Knowledge Area: Deployment
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A,B)
+#### Answer (A,B)
 
 Knowledge Area: EC2 Compute
 
@@ -218,7 +218,7 @@ Knowledge Area: EC2 Compute
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A,D,E)
+#### Answer (A,D,E)
 
 Knowledge Area: Virtual Private Cloud (VPC)
 
@@ -239,7 +239,7 @@ Knowledge Area: Virtual Private Cloud (VPC)
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (C,D)
+#### Answer (C,D)
 
 Knowledge Area: Virtual Private Cloud (VPC)
 
@@ -259,7 +259,7 @@ Knowledge Area: Virtual Private Cloud (VPC)
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B)
+#### Answer (B)
 
 Knowledge Area: Monitoring Services
 
@@ -280,7 +280,7 @@ Knowledge Area: Monitoring Services
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (E)
+#### Answer (E)
 
 Knowledge Area: Security Architecture
 
@@ -302,7 +302,7 @@ Knowledge Area: Security Architecture
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A)
+#### Answer (A)
 
 Knowledge Area: EC2 Compute
 
@@ -323,7 +323,7 @@ Knowledge Area: EC2 Compute
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A,E)
+#### Answer (A,E)
 
 Knowledge Area: EC2 Compute
 
@@ -343,7 +343,7 @@ Knowledge Area: EC2 Compute
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (D)
+#### Answer (D)
 
 Knowledge Area: Deployment
 
@@ -364,7 +364,7 @@ Knowledge Area: Deployment
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (C,D)
+#### Answer (C,D)
 
 Knowledge Area: Virtual Private Cloud (VPC)
 
@@ -385,7 +385,7 @@ Knowledge Area: Virtual Private Cloud (VPC)
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B,E)
+#### Answer (B,E)
 
 Knowledge Area: Storage Services
 
@@ -406,7 +406,7 @@ Knowledge Area: Storage Services
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B)
+#### Answer (B)
 
 Knowledge Area: Database Services
 
@@ -427,7 +427,7 @@ Knowledge Area: Database Services
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B,D,E)
+#### Answer (B,D,E)
 
 Knowledge Area: Security Architecture
 
@@ -448,7 +448,7 @@ Knowledge Area: Security Architecture
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B,D)
+#### Answer (B,D)
 
 Knowledge Area: Virtual Private Cloud (VPC)
 
@@ -468,7 +468,7 @@ Knowledge Area: Virtual Private Cloud (VPC)
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A,B)
+#### Answer (A,B)
 
 Knowledge Area: Database Services
 
@@ -489,7 +489,7 @@ Knowledge Area: Database Services
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A,C)
+#### Answer (A,C)
 
 Knowledge Area: Fault Tolerant Systems
 
@@ -510,7 +510,7 @@ Knowledge Area: Fault Tolerant Systems
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (C)
+#### Answer (C)
 
 Knowledge Area: Security Architecture
 
@@ -530,7 +530,7 @@ Knowledge Area: Security Architecture
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (D)
+#### Answer (D)
 
 Knowledge Area: Virtual Private Cloud (VPC)
 
@@ -551,7 +551,7 @@ Knowledge Area: Virtual Private Cloud (VPC)
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A,D,E)
+#### Answer (A,D,E)
 
 Knowledge Area: EC2 Compute
 
@@ -572,7 +572,7 @@ Knowledge Area: EC2 Compute
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (D)
+#### Answer (D)
 
 Knowledge Area: Virtual Private Cloud (VPC)
 
@@ -592,7 +592,7 @@ Knowledge Area: Virtual Private Cloud (VPC)
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B,C)
+#### Answer (B,C)
 
 Knowledge Area: Fault Tolerant Systems
 
@@ -612,7 +612,7 @@ Knowledge Area: Fault Tolerant Systems
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A)
+#### Answer (A)
 
 Knowledge Area: Storage Services
 
@@ -633,7 +633,7 @@ Knowledge Area: Storage Services
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (D,E)
+#### Answer (D,E)
 
 Knowledge Area: Storage Services
 
@@ -654,7 +654,7 @@ Knowledge Area: Storage Services
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (C)
+#### Answer (C)
 
 Knowledge Area: Virtual Private Cloud (VPC)
 
@@ -674,7 +674,7 @@ Knowledge Area: Virtual Private Cloud (VPC)
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (D)
+#### Answer (D)
 
 Knowledge Area: EC2 Compute
 
@@ -695,7 +695,7 @@ Knowledge Area: EC2 Compute
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (C)
+#### Answer (C)
 
 Knowledge Area: Deployment
 
@@ -715,7 +715,7 @@ Knowledge Area: Deployment
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B)
+#### Answer (B)
 
 Knowledge Area: Deployment
 
@@ -735,7 +735,7 @@ Knowledge Area: Deployment
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A)
+#### Answer (A)
 
 Knowledge Area: EC2 Compute
 
@@ -756,7 +756,7 @@ Knowledge Area: EC2 Compute
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (B)
+#### Answer (B)
 
 Knowledge Area: Database Services
 
@@ -777,7 +777,7 @@ Knowledge Area: Database Services
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A,C)
+#### Answer (A,C)
 
 Knowledge Area: Virtual Private Cloud (VPC)
 
@@ -797,7 +797,7 @@ Knowledge Area: Virtual Private Cloud (VPC)
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A,C)
+#### Answer (A,C)
 
 Knowledge Area: Fault Tolerant Systems
 
@@ -810,15 +810,15 @@ Knowledge Area: Fault Tolerant Systems
 #### 40. What is the difference between Stream-based and AWS Services when enabling Lambda?
 
 1. streams maintains event source mapping in Lambda
-2. streams maintains event source mapping in event source
-3. streams maintains event source mapping in EC2 instance
-4. streams maintains event source mapping in notification
-5. streams maintains event source mapping in API
+1. streams maintains event source mapping in event source
+1. streams maintains event source mapping in EC2 instance
+1. streams maintains event source mapping in notification
+1. streams maintains event source mapping in API
 
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer (A)
+#### Answer 1
 
 Knowledge Area: Deployment
 

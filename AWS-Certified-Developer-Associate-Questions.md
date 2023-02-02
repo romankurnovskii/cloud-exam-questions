@@ -6,11 +6,6 @@
   <a href="https://aws.amazon.com/certification/certified-developer-associate/">Exam Info</a> | <a href="http://www.cloud-exam-prepare.com/">Quizz App</a>
 </div>
 
-**Resources:**
--  [AWS-Certified-Developer-Associate_Sample-Questions_C02.pdf](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions_C02.pdf)
--  [explore.skillbuilder.aws](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13757/aws-certified-developer-associate-official-question-set-dva-c02-english)
-
-
 ---
 
 #### 1. A company is migrating a legacy application to Amazon EC2 instances. The application uses a user name and password that are stored in the source code to connect to a MySQL database. The company will migrate the database to an Amazon RDS for MySQL DB instance. As part of the migration, the company needs to implement a secure way to store and automatically rotate the database credentials.
@@ -25,7 +20,7 @@
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer 4
+#### Answer 4
 
 Explanation: AWS Secrets Manager helps protect the credentials that are needed to access databases, applications, services, and other IT resources. With Secrets Manager, you can rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle. Users and applications retrieve secrets by making a Secrets Manager API call, eliminating the need to hardcode sensitive information in plaintext. Secrets Manager offers [secret rotation](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotate-secrets_turn-on-for-db.html) with built-in integration for Amazon RDS, Amazon Redshift, and Amazon DocumentDB (with MongoDB compatibility).
 
@@ -48,7 +43,7 @@ Explanation: AWS Secrets Manager helps protect the credentials that are needed t
 <details><summary><b>Answer</b></summary>
 <p>
 
-### Answer 1, 2
+#### Answer 1, 2
 
 AWS AppSync simplifies application development by giving you the ability to create a flexible API to securely access, manipulate, and combine data from one or more data sources. AWS AppSync is a managed service that uses GraphQL to help applications get the exact data that they need. You can use AWS AppSync to build scalable applications that require real-time updates on a range of data sources, including Amazon DynamoDB.
 
@@ -71,7 +66,7 @@ In Amazon API Gateway, you can create a WebSocket API as a stateful frontend for
 
 <details><summary><b>Answer</b></summary>
 
-### Answer 1, 5
+#### Answer 1, 5
 
 [Amazon Cognito](https://aws.amazon.com/cognito/) adds user sign-up, sign-in, and access control to web and mobile applications. You can also create an AWS Lambda function to make an API call to a custom analytics solution and then invoke that function by using an [Amazon Cognito post authentication trigger](https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-lambda-post-authentication.html).
 
@@ -171,3 +166,11 @@ Which solution will resolve this issue?
 1. Create an additional .zip file that contains the missing dependencies. Include the .zip file in the original Lambda deployment package.
 1. Add references to the missing dependencies in the Lambda function's environment variables.
 1. Create a layer that contains the missing dependencies. Attach the layer to the Lambda function.
+
+
+--- 
+
+## Resources
+
+-  [AWS-Certified-Developer-Associate_Sample-Questions_C02.pdf](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions_C02.pdf)
+-  [explore.skillbuilder.aws](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13757/aws-certified-developer-associate-official-question-set-dva-c02-english)
